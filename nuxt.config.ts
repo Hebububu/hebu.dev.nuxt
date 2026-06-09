@@ -12,7 +12,8 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: [
     '@nuxt/fonts',
-    'nuxt-phosphor-icons'
+    'nuxt-phosphor-icons',
+    '@pinia/nuxt'
   ],
   css: ['~/assets/css/main.css']
 })
