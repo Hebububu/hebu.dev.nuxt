@@ -10,6 +10,9 @@ export default defineNuxtConfig({
 
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
-  modules: ['@nuxt/fonts'],
+  modules: [
+    '@nuxt/fonts',
+    'nuxt-phosphor-icons'
+  ],
   css: ['~/assets/css/main.css']
 })
