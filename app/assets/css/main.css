@@ -3,6 +3,7 @@
 --color-background: oklch(97.61% 0 0);
 --color-surface: oklch(95.21% 0 0);
 --color-border: oklch(86.99% 0 0);
+--color-border-dark: oklch(43% 0 0);
 
 /* text */
 --color-text: oklch(22% 0.0097 285.58);
